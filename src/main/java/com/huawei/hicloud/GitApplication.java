@@ -5,6 +5,11 @@ import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 1 commit
+ * @author dell
+ *
+ */
 @SpringBootApplication
 public class GitApplication {
 	
